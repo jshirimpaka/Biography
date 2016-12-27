@@ -1,4 +1,4 @@
-# Biography
+# AJAX two review biography website
 
 In this exercise, I create a biography website for one of the most influencial people in recent history, Nelson Mandela.
 
